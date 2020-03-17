@@ -2,5 +2,5 @@ Problem Statement
 
 
 1 Create an HTML document on “How to stay safe from COVID19”.
-2The participants will be given 24 hours to create the document and upload it to GitHub.
+2 The participants will be given 24 hours to create the document and upload it to GitHub.
 3 Participants to the closed group will be selected based on how well the information is conveyed in the HTML Document.
