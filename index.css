@@ -1,0 +1,13 @@
+
+body{
+    font-family: sans-serif;
+    background-color: rgb(10, 6, 46);
+}
+#container1{
+    width: 80%;
+    padding: 20px;
+    margin: auto;
+    max-width: 1200px;
+    background-color: rgb(249, 248, 250);
+    border: 1px solid rgb(44, 39, 39);
+}
